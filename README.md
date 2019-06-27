@@ -47,7 +47,7 @@
 
 ### Equipamentos:
 
-| Camêras        | Requerimentos     | Captação  |
+
 | ------------- |:-------------:| -----:|
 | **Camêra**     | Sony a7III Fullframe Mirrorless. | *Resolução 4K* |
 | col 2 is      | centered      |   $12 |
