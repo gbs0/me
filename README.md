@@ -117,21 +117,23 @@ $ bower install
 
 ---
 
-## Contributing
+## Objetivo do projeto:
 
-> To get started...
+> Com um roteiro e narrativa impecáveis, a produção desta série foi pensada para quebrar as principais barreiras e inseguranças dos alunos adentrarem o bootcamp e para fortificar a marca LeWagon a nível nacional.
+
+> Foi conversado na reunião do dia 25/06/2019 as ideias e propostas que a Push desenvolveu em relação à produção de uma série de três vídeos no estilo documentário sobre como é ser um aluno LeWagon, demonstrando a experiência completa.
 
 ### A Proposta é dividir a série em três partes:
 
 - **1ª Parte**
-    - 🍴 Será uma entrevista com um aluno(a) sobre o que ele fazia antes do Le WAgon, as expectativas sobre curso e porque, principalmente, escolheu o Le Wagon (suas expectativas) .
+    - 🔧 Será uma entrevista com um aluno(a) sobre o que ele fazia antes do Le WAgon, as expectativas sobre curso e porque, principalmente, escolheu o Le Wagon (suas expectativas) .
 
 - **2ª Parte**
     - 👯 A segunda parte será um acompanhamento do dia-a-dia do aluno desde o inicio, apresentando toda a metodologia Le Wagon e os benefícios iniciais da sua aprendizagem no Bootcamp.
     Com o objetivo de mostrar o desenvolvimento e o enredo do aprendizado (TA's, Tickets e todo o suporte técnico Le Wagon) junto aos `eventos, workshops, aulas de Yoga, Happy-Hours, festas e etc.`
 
 - **3ª Parte**
-    - 👯 A terceira parte será o acompanhamento do projeto final, a apresentação no Demoday e a entrevista final mostrando tudo que foi aprendido pelo aluno.   
+    - 🎉 A terceira parte será o acompanhamento do projeto final, a apresentação no Demoday e a entrevista final mostrando tudo que foi aprendido pelo aluno.   
 
 ### Step 2
 
