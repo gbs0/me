@@ -9,10 +9,10 @@
 ### Informações sobre o serviço:
 
 	| Data        | Requerimentos     | Captação  |
-	| ------------|:-------------:| -----:|
-	| *A Definir* | Produção de 3 vídeos no estilo documentário | $1600 |
-	|       			| (5 minutos de duração cada).      |   $12 |
-	|  						| are neat |    $1 |
+	| ------------- |:-------------:| -----:|
+	| *A Definir*      | right-aligned | $1600 |
+	| col 2 is      | centered      |   $12 |
+	| zebra stripes | are neat      |    $1 |
 
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
