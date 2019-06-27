@@ -45,17 +45,13 @@
 
 ---
 
-## Table of Contents (Optional)
+### Equipamentos:
 
-> If you're `README` has a lot of info, section headers might be nice.
-
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
+| Camêras        | Requerimentos     | Captação  |
+| ------------- |:-------------:| -----:|
+| **Camêra**     | Sony a7III Fullframe Mirrorless. | *Resolução 4K* |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 ---
