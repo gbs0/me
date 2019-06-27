@@ -46,11 +46,17 @@
 - 🎭 **Takes dos eventos (festas, happyhour, workshops, yoga);**
 
 ### Pós Produção:
-- **Planejamento Criativo**
-    - Stortyboard para orientação da filmagem, edição e videografismo;
-- **Após a aprovação do roteiro:**
-    - Adaptações e ajustes de roteiro conforme os feedbacks do(a) contratante;
-- **Produção e aprovação do roteiro final e datas de filmagem marcadas**
+- **A pós produção conta com as seguintes etapas:**
+    - Planejamento criativo;
+	  - Edição do vídeo;
+	  - Colorização;
+	  - Lettering;
+	  - Utilização de banco de imagens e vídeos ilustrativos;
+	  - Trilha Sonora;
+	  - Revisão de vídeo;
+	  - Correção de vídeo;
+	  - Envio de arquivo via link
+
 ---
 
 ### Equipamentos:
