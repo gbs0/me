@@ -10,7 +10,7 @@
 
 | Data        | Requerimentos     | Captação  |
 | ------------- |:-------------:| -----:|
-| *A Definir*      | right-aligned | $1600 |
+| *A Definir*      | Produção de 3 vídeos no estilo documentário (5 minutos de duração cada). | 5 diárias na Vila Madalena |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
