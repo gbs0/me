@@ -45,9 +45,11 @@
 - 🎙 **Takes das entrevistas;**
 - 🎭 **Takes dos eventos (festas, happyhour, workshops, yoga);**
 
+---
+
 ### Pós Produção:
 - **A pós produção conta com as seguintes etapas:**
-    - Planejamento criativo;
+    - Planejamento criativo:
 	  - Edição do vídeo;
 	  - Colorização;
 	  - Lettering;
