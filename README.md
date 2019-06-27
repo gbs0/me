@@ -49,7 +49,7 @@
 
 | Tipo        | Marca/Modelo     | Detalhes Adicionais  |
 | ------------- |:-------------:| -----:|
-| **Camêra**     | Sony a7III Fullframe Mirrorless. | *Resolução 4K | Full HD* |
+| **Camêra**     | Sony a7III Fullframe Mirrorless. | *Resolução 4K / Full HD* |
 | **Camêra**      | Sony a6500      |   *Resolução 4K* |
 | **Lentes** | Kit de lentes de alto desempenho   |    10-20mm, 56mm, 16mm, 18-135mm |	
 | **Estabilizador** |  Gimble Zhyun Crane   |     |	
