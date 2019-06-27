@@ -13,35 +13,23 @@
 | *A Definir*      | Produção de 3 vídeos no estilo documentário (5/6 minutos de duração cada). | 5 diárias na Vila Madalena | Le Wagon |
 |       |  |  |
 
+## Objetivo do projeto:
 
+> Com um roteiro e narrativa impecáveis, a produção desta série foi pensada para quebrar as principais **barreiras** e **inseguranças** dos alunos adentrarem o bootcamp e também para fortificar a marca Le Wagon a nível nacional.
 
-- For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
+> Foi conversado em reunião (dia 25/06/2019), as ideias e propostas que a Push desenvolveu em relação à produção de uma série de três vídeos no estilo documentário sobre como é ser um aluno Le Wagon, demonstrando como é sua jornada e experiência completas.
 
-***INSERT ANOTHER GRAPHIC HERE***
+### A Proposta é dividir a série em três partes:
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+- **1ª Parte**
+    - 🔧 Será uma entrevista com um aluno(a) sobre o que ele fazia antes do Le WAgon, as expectativas sobre curso e porque, principalmente, escolheu o Le Wagon (suas expectativas) .
 
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
+- **2ª Parte**
+    - 👯 A segunda parte será um acompanhamento do dia-a-dia do aluno desde o inicio, apresentando toda a metodologia Le Wagon e os benefícios iniciais da sua aprendizagem no Bootcamp.
+    Com o objetivo de mostrar o desenvolvimento e o enredo do aprendizado (TA's, Tickets e todo o suporte técnico Le Wagon) junto aos `eventos, workshops, aulas de Yoga, Happy-Hours, festas e etc.`
 
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
+- **3ª Parte**
+    - 🎉 A terceira parte será o acompanhamento do projeto final, a apresentação no Demoday e a entrevista final mostrando tudo que foi aprendido pelo aluno.   
 
 ---
 
@@ -117,31 +105,7 @@ $ bower install
 
 ---
 
-## Objetivo do projeto:
 
-> Com um roteiro e narrativa impecáveis, a produção desta série foi pensada para quebrar as principais **barreiras** e **inseguranças** dos alunos adentrarem o bootcamp e também para fortificar a marca Le Wagon a nível nacional.
-
-> Foi conversado em reunião (dia 25/06/2019), as ideias e propostas que a Push desenvolveu em relação à produção de uma série de três vídeos no estilo documentário sobre como é ser um aluno Le Wagon, demonstrando como é sua jornada e experiência completas.
-
-### A Proposta é dividir a série em três partes:
-
-- **1ª Parte**
-    - 🔧 Será uma entrevista com um aluno(a) sobre o que ele fazia antes do Le WAgon, as expectativas sobre curso e porque, principalmente, escolheu o Le Wagon (suas expectativas) .
-
-- **2ª Parte**
-    - 👯 A segunda parte será um acompanhamento do dia-a-dia do aluno desde o inicio, apresentando toda a metodologia Le Wagon e os benefícios iniciais da sua aprendizagem no Bootcamp.
-    Com o objetivo de mostrar o desenvolvimento e o enredo do aprendizado (TA's, Tickets e todo o suporte técnico Le Wagon) junto aos `eventos, workshops, aulas de Yoga, Happy-Hours, festas e etc.`
-
-- **3ª Parte**
-    - 🎉 A terceira parte será o acompanhamento do projeto final, a apresentação no Demoday e a entrevista final mostrando tudo que foi aprendido pelo aluno.   
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
 
 ---
 
