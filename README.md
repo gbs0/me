@@ -36,14 +36,14 @@
     - Stortyboard para orientação da filmagem, edição e videografismo;
 - **Após a aprovação do roteiro:**
     - Adaptações e ajustes de roteiro conforme os feedbacks do(a) contratante;
-- **Produção e aprovação do roteiro final e datas de filmagem marcadas**
+- **Produção e aprovação do roteiro final e datas de filmagem marcadas;**
     
 ## Produção:
-- **Planejamento de Captação;**
-- **Takes de Planos abertos e fechados do ambiente;**
-- **Takes dos alunos(as);**
-- **Takes das entrevistas;**
-- **Takes dos eventos (festas, happyhour, workshops, yoga);**
+- 🎞 **Planejamento de Captação;**
+- 📹 **Takes de Planos abertos e fechados do ambiente;**
+- 👩‍💻 **Takes dos alunos(as);**
+- 🎙 **Takes das entrevistas;**
+- 🎭 **Takes dos eventos (festas, happyhour, workshops, yoga);**
 
 ### Pós Produção:
 - **Planejamento Criativo**
