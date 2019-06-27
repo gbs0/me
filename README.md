@@ -8,11 +8,11 @@
 
 ### Informações sobre o serviço:
 
-	| Data        | Requerimentos     | Captação  |
-	| ------------- |:-------------:| -----:|
-	| *A Definir*      | right-aligned | $1600 |
-	| col 2 is      | centered      |   $12 |
-	| zebra stripes | are neat      |    $1 |
+| Data        | Requerimentos     | Captação  |
+| ------------- |:-------------:| -----:|
+| *A Definir*      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
