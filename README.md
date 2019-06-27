@@ -34,9 +34,23 @@
 ### Pré Produção:
 - **Produção de um roteiro com os seguintes elementos:**
     - Stortyboard para orientação da filmagem, edição e videografismo;
-	+ Aprovação do roteiro, adaptação diante dos feedbacks;
-	+ Produção e aprovação do roteiro final e datas de filmagem marcada.
+- **Após a aprovação do roteiro:**
+    - Adaptações e ajustes de roteiro conforme os feedbacks do(a) contratante;
+- **Produção e aprovação do roteiro final e datas de filmagem marcadas**
+    
+## Produção:
+- **Planejamento de Captação;**
+- **Takes de Planos abertos e fechados do ambiente;**
+- **Takes dos alunos(as);**
+- **Takes das entrevistas;**
+- **Takes dos eventos (festas, happyhour, workshops, yoga);**
 
+### Pós Produção:
+- **Planejamento Criativo**
+    - Stortyboard para orientação da filmagem, edição e videografismo;
+- **Após a aprovação do roteiro:**
+    - Adaptações e ajustes de roteiro conforme os feedbacks do(a) contratante;
+- **Produção e aprovação do roteiro final e datas de filmagem marcadas**
 ---
 
 ### Equipamentos:
