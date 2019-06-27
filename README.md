@@ -10,9 +10,8 @@
 
 | Data        | Requerimentos     | Captação  |
 | ------------- |:-------------:| -----:|
-| *A Definir*      | Produção de 3 vídeos no estilo documentário (5 minutos de duração cada). | 5 diárias na Vila Madalena |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| *A Definir*      | Produção de 3 vídeos no estilo documentário (5/6 minutos de duração cada). | 5 diárias na Vila Madalena | Le Wagon |
+
 
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
