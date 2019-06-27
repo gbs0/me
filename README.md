@@ -47,11 +47,16 @@
 
 ### Equipamentos:
 
-
+| Tipo        | Marca/Modelo     | Detalhes Adicionais  |
 | ------------- |:-------------:| -----:|
-| **Camêra**     | Sony a7III Fullframe Mirrorless. | *Resolução 4K* |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| **Camêra**     | Sony a7III Fullframe Mirrorless. | *Resolução 4K | Full HD* |
+| **Camêra**      | Sony a6500      |   *Resolução 4K* |
+| **Lentes** | Kit de lentes de alto desempenho   |    10-20mm, 56mm, 16mm, 18-135mm |	
+| **Estabilizador** |  Gimble Zhyun Crane   |     |	
+| **Iluminação** | Refletor GVM   | 3 stands com 3 luzes cada   |	
+| **Microfone** | Microfone RodPro   |    |	
+| **Gravador de Aúdio** | Gravador Tacam   |    |	
+
 
 
 ---
