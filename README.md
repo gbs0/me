@@ -119,9 +119,9 @@ $ bower install
 
 ## Objetivo do projeto:
 
-> Com um roteiro e narrativa impecáveis, a produção desta série foi pensada para quebrar as principais barreiras e inseguranças dos alunos adentrarem o bootcamp e para fortificar a marca LeWagon a nível nacional.
+> Com um roteiro e narrativa impecáveis, a produção desta série foi pensada para quebrar as principais **barreiras** e **inseguranças** dos alunos adentrarem o bootcamp e também para fortificar a marca Le Wagon a nível nacional.
 
-> Foi conversado na reunião do dia 25/06/2019 as ideias e propostas que a Push desenvolveu em relação à produção de uma série de três vídeos no estilo documentário sobre como é ser um aluno LeWagon, demonstrando a experiência completa.
+> Foi conversado em reunião (dia 25/06/2019), as ideias e propostas que a Push desenvolveu em relação à produção de uma série de três vídeos no estilo documentário sobre como é ser um aluno Le Wagon, demonstrando como é sua jornada e experiência completas.
 
 ### A Proposta é dividir a série em três partes:
 
@@ -145,24 +145,42 @@ $ bower install
 
 ---
 
-## Team
+## Equipe
 
-> Or Contributors/People
 
 | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
 | :---: |:---:| :---:|
 | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
 | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
 
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
+
 
 ---
 
-## FAQ
+## Termos e Condições
 
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
+- **Condições de Pagamento:**
+    - 50% Pré-Produção (após todas as gravações) e 50% Pós- Produção (envio do arquivo revisado).
+
+- **Prazo de Produção:**
+    - `20 (vinte) dias` após todas as gravações.
+
+- **Edição:**
+    - Após a entrega da primeira versão da edição, a contratante tem direito a solicitar pedidos de alteração dentro do prazo de `10 (dez) dias`. Passado esse prazo, para novas alterações poderão ser cobrados honorários extras. 
+    - Só serão entregues `3 (três)` versões do vídeo. Para novos pedidos de alterações que resultem em mais versões da edição poderão ser cobrados honorários extras.
+
+- **Arquivos:**
+    - Os arquivos ficam armazenados por 30 dias após a entrega do projeto.
+
+- **Resposabilidade do(a) Contratante:**
+    - Entrega do briefing, do manual da marca e logo. Escolha, contratação e autorização para uso das locações.
+
+- **Responsabilidade da Contratada:**
+    - Locomoção da equipe, Garantir a qualidade técnica e artística da captação, edição e pós-produção.
+
+- **Resposabilidade do(a) Contratante:**
+    - Entrega do briefing, do manual da marca e logo. Escolha, contratação e autorização para uso das locações.
+    
 
 ---
 
@@ -190,4 +208,4 @@ Reach out to me at one of the following places!
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 © <a href="http://fvcproductions.com" target="_blank">Todos os direitos reservados aos seus respectivos autores.</a>.
+- Copyright 2019 © <a href="http://fvcproductions.com" target="_blank">Todos os direitos reservados aos seus respectivos autores.</a>
