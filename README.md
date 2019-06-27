@@ -1,4 +1,9 @@
-<div style="text-align:center; height: 170px;"><img src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t1.0-9/50907015_1092341617612035_1041846426197295104_n.png?_nc_cat=110&_nc_oc=AQnE8Fo4-hZV9sEMfjhs5ji8lwYOCjwForkp3tkhtui_QRuS03CETFemhDSPjQkamcY&_nc_ht=scontent.fcgh23-1.fna&oh=48c773ae3f763ac02d2c513b35aac6f1&oe=5D89BD67" title="Push Media"></div>
+<!-- <div style="text-align:center; height: 170px;"><img src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t1.0-9/50907015_1092341617612035_1041846426197295104_n.png?_nc_cat=110&_nc_oc=AQnE8Fo4-hZV9sEMfjhs5ji8lwYOCjwForkp3tkhtui_QRuS03CETFemhDSPjQkamcY&_nc_ht=scontent.fcgh23-1.fna&oh=48c773ae3f763ac02d2c513b35aac6f1&oe=5D89BD67" title="Push Media"></div>
+ -->
+
+<p align="center">
+  <img height="280" src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t1.0-9/50907015_1092341617612035_1041846426197295104_n.png?_nc_cat=110&_nc_oc=AQnE8Fo4-hZV9sEMfjhs5ji8lwYOCjwForkp3tkhtui_QRuS03CETFemhDSPjQkamcY&_nc_ht=scontent.fcgh23-1.fna&oh=48c773ae3f763ac02d2c513b35aac6f1&oe=5D89BD67">
+</p>
 
 # Proposta Comercial
 
