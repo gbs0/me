@@ -32,7 +32,9 @@
     - 🎉 A terceira parte será o acompanhamento do projeto final, a apresentação no Demoday e a entrevista final mostrando tudo que foi aprendido pelo aluno.  
 
 ### Pré Produção:
-
+	+ Produção de um roteiro e stortyboard para orientação da filmagem, edição e videografismo;
+	+ Aprovação do roteiro, adaptação diante dos feedbacks;
+	+ Produção e aprovação do roteiro final e datas de filmagem marcada.
 
 ---
 
