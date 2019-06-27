@@ -29,7 +29,10 @@
     Com o objetivo de mostrar o desenvolvimento e o enredo do aprendizado (TA's, Tickets e todo o suporte técnico Le Wagon) junto aos `eventos, workshops, aulas de Yoga, Happy-Hours, festas e etc.`
 
 - **3ª Parte**
-    - 🎉 A terceira parte será o acompanhamento do projeto final, a apresentação no Demoday e a entrevista final mostrando tudo que foi aprendido pelo aluno.   
+    - 🎉 A terceira parte será o acompanhamento do projeto final, a apresentação no Demoday e a entrevista final mostrando tudo que foi aprendido pelo aluno.  
+
+### Pré Produção:
+
 
 ---
 
@@ -173,3 +176,19 @@ Reach out to me at one of the following places!
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2019 © <a href="http://fvcproductions.com" target="_blank">Todos os direitos reservados aos seus respectivos autores.</a>
+
+### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+
+Footnote 1 link[^first].
+
+Footnote 2 link[^second].
+
+Inline footnote^[Text of inline footnote] definition.
+
+Duplicated footnote reference[^second].
+
+[^first]: Footnote **can have markup**
+
+    and multiple paragraphs.
+
+[^second]: Footnote text.
