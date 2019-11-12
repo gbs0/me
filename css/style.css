@@ -4,7 +4,6 @@
 /* Importing layouts */
 
 @import url("layouts/home.css");
-
 @import url("layouts/blogpost.css");
 @import url("layouts/map.css");
 @import url("layouts/saas.css");
@@ -36,7 +35,7 @@ h3 {
 }
 h5 {
   font-weight: 400 !important;
-
+  margin-bottom: 2em !important;
 }
 
 .navbar-minimal {
