@@ -70,3 +70,7 @@
   text-align: left;
   display: inline-flex;
 }
+
+.dashboard-footer {
+   grid-column-end: 3; 
+}
