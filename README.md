@@ -1,4 +1,4 @@
-<h2> Hi, I'm Gabriel Schiavo!      <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="800" style="margin-right: 50px;"></h2> 
+<h2> Hi, I'm Gabriel Schiavo!      <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="80" style="margin-right: 50px;"></h2> 
 <p><em>Developer & TA at <a href="https://lewagon.com/">Le Wagon</a><img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="150">
   </em></p>
 
