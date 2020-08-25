@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to write 📝 markdowns!
 
 
-### 🔛 Connect with me:
+### • Connect with me:
 
 [<img align="left" alt="gabbro.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Gabriel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,7 +18,7 @@
 
 <br />
 
-### 💻 Languages:
+### • Languages:
 
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,7 +35,7 @@
 <br />
 
 
-### 🛠 Tools:
+### • Tools:
 
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" alt="Homebrew" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png">
@@ -46,7 +46,6 @@
 <br />
 
 ---
-
 
 
 <img align="center" alt="gbs0 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gbs0&show_icons=true&hide_border=true" />
