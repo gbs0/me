@@ -46,8 +46,7 @@
 
 ---
 
-
-<summary>:zap: Github Stats</summary>
+<br />
 
 <img align="center" alt="gbs0 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gbs0&show_icons=true&hide_border=true" />
 
