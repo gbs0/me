@@ -1,6 +1,6 @@
 ### Hello, I'm Gabriel - [website] 👋
 
-[![Website](https://img.shields.io/website?label=gabs.website&style=for-the-badge&url=https%3A%2F%2Fgabs.website)](https://gabs.website)
+[![Website](https://img.shields.io/website?label=gabs.website&style=for-the-badge&url=https%3A%2F%2Fgabs.website)](http://gabs.website)
 
 ## 💪🏼 I'm a Developer, Rails Evangelist and Teacher!
 
@@ -52,6 +52,6 @@
 
 
 
-[website]: https://gabbro.tk
+[website]: http://gabs.website
 [instagram]: https://instagram.com/gb_s0
 [linkedin]: https://linkedin.com/in/gabbro
